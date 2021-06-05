@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Group01_Song1_Full.mp3",
+    "mfcc": "ab9bff93ffd7b9c6acc064c444ce4cd650ea132a5339533b1378033c227c02bc",
+    "melspec": "84ee84eea6ecbec8bed0bb91ab912b112b113b132b132b132a176a566a7e6a5e"
+  },
+  {
+    "name": "Group01_Song1_Music.mp3",
+    "mfcc": "a2dbb7fb9da6ab26e8064c844d944dd555c05544573d57795379325d325d00d9",
+    "melspec": "ba07ba07ba07aa07aa07aa1faa9baadaaadaaadaaad8aad0aad0aad0aaf0aaf0"
+  },
+  {
+    "name": "Group01_Song1_Vocals.mp3",
+    "mfcc": "80f48de480f480d48cc0a4d7a4ca7d87700a7b2b533b7b2b73397b2b7b397b29",
+    "melspec": "84ee84ee84e894c897913b917b9179117b117b137b037b076a176a576a766a56"
+  },
+  {
+    "name": "Group01_Song2_Full.mp3",
+    "mfcc": "8f1f8e3b8e1b840385039551154015c073c473e473fc7afc7aec7aec78fc682e",
+    "melspec": "87d587d587d587d587d587d78717870f870f870f860f862b062b062b062f0e2f"
+  },
+  {
+    "name": "Group01_Song2_Music.mp3",
+    "mfcc": "8f0f8a1d8a05840085019541154215c277f273f673be7afe7afc7afc7abc6aa4",
+    "melspec": "8715871587158717871787578747874787478747874787478747874787c787c7"
+  },
+  {
+    "name": "Group01_Song2_Vocals.mp3",
+    "mfcc": "93c4b3c4b3c493c49340cb414a42487a4a3b6e3b6e3b6c3b6c3b6c3b6c3b6c3f",
+    "melspec": "83c483c483c483c483c4c3c8c68a469b56bb563b563b563b563b5e3b5e3b7c3b"
+  },
+  {
+    "name": "Group01_Song3_Full.mp3",
+    "mfcc": "fe08fe08facbd6ff9fff1f7f1f6f7f7b657c25f401f401f40194001400140004",
+    "melspec": "89ef99ef98ef98ef98ef9aef98ef98ea1d6a3d42351235103510351035503550"
+  },
+  {
+    "name": "Group01_Song3_Music.mp3",
+    "mfcc": "e480e208c22ecaff1bef1bef1fef7ff76ff767d767d025d02540251024003400",
+    "melspec": "9aef9aef9aef9aef9aef98ef98ef98ef88f224f024d025502550255025502550"
+  },
+  {
+    "name": "Group01_Song3_Vocals.mp3",
+    "mfcc": "83fe83fe83ff87ffb7ff7f5b7f597f097f017d007c0058005900780078007c00",
+    "melspec": "85d785d581f580f480b4ca3c4a285a287a287b2a7b0a7b8a7f8a7f8a7f8a7f8a"
+  },
+  {
+    "name": "Group01_Song4_Full.mp3",
+    "mfcc": "d2dfd49792f49cb6b7ff379f3f993b0928092860696148606c64626466a66ea3",
+    "melspec": "baa8baa8aaa8aaa2aaa2aaa2aaaa2a8e2a8e2aee2aee2aee6aae6aa66ba263fa"
+  },
+  {
+    "name": "Group01_Song4_Music.mp3",
+    "mfcc": "86f38492b9f69df6bfff3fff3fff136d5919420d4a4d420c4224420464066492",
+    "melspec": "aaa6aaa6aaaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa2aaa"
+  },
+  {
+    "name": "Group01_Song4_Vocals.mp3",
+    "mfcc": "8468ac028049ac229209a5129309739473dd79f453d75bf65bf45bf45af65bf6",
+    "melspec": "92a9b2a9a8a9a8a2a8b228962a966ace6a4e6a4f6f4d776c6564657445f655f6"
+  },
+  {
+    "name": "Group02_Song1_Full.mp3",
+    "mfcc": "f034d237f011b2119483878307cf23cc07c66be40f724f6c4dea4dea6de86f79",
+    "melspec": "878b87ab87a396319631963556355e345e745e7c7c747c747874787468c468c4"
+  },
+  {
+    "name": "Group02_Song1_Music.mp3",
+    "mfcc": "80a98621b0a1b221b221b23736373cd66cd76ddc49de495e497e4d6e594e576e",
+    "melspec": "a639a639a639a633a633863396b6d6b652b65a9658d658d458d459d459d479c4"
+  },
+  {
+    "name": "Group02_Song1_Vocals.mp3",
+    "mfcc": "8b67972387c3962395cb86ad75ca719c799c79746934683468d8689c68dc68fc",
+    "melspec": "858b878387839331d23152355a715e785e6c7c6c7c6d7c2d7a257a65686568e5"
+  },
+  {
+    "name": "Group02_Song2_Full.mp3",
+    "mfcc": "ae85eacdeea5ea45ea5bf895fa5a70b9315c11763176116a137215b205a205af",
+    "melspec": "b372b372b324a324aa24a224b255b255b255b255ba55ba55ba57ba55ba35b435"
+  },
+  {
+    "name": "Group02_Song2_Music.mp3",
+    "mfcc": "93d09662a7c2af52e868e174a52663343635712d783d7cbd58995a9b4add0e8b",
+    "melspec": "b336b336b336b334b274b274b274b274b274b274b254b254b254b255b255b255"
+  },
+  {
+    "name": "Group02_Song2_Vocals.mp3",
+    "mfcc": "95a4c8ca85a888cacadacca16a5a6cb5790d7d35351575257715753576357e15",
+    "melspec": "937a936a81a8c9a468a46c856cc97c5b7c537c577c477a477a575a1758345d24"
+  },
+  {
+    "name": "Group02_Song3_Full.mp3",
+    "mfcc": "a803c023c023c032843a907e043e057e0eff2fcc1fcc3fcc3fcc3bcc7fc97fc9",
+    "melspec": "aa16aa96aa94aabdaab7abd329d369d368f32ad32ad22a922a922a9b2b5b2951"
+  },
+  {
+    "name": "Group02_Song3_Music.mp3",
+    "mfcc": "88148021d421c2a5c2a0daa94ead4fcf0c5f2e7f3e5f325f335e335273da795a",
+    "melspec": "aad4aa94aa96aa96aa96aa92aa92aa92aa9aaadaaadaaadaaadaaacaab4a2b6c"
+  },
+  {
+    "name": "Group02_Song3_Vocals.mp3",
+    "mfcc": "b515ca9aa50dca96952e0d5616be25f643e927c152a12fe13be13be13b613b61",
+    "melspec": "aa1eaa9eca8ccaad6cad7d457d437d637de37ca35cb21c921692169316111551"
+  },
+  {
+    "name": "Group02_Song4_Full.mp3",
+    "mfcc": "a404c80cc00dc00cc48ca4bc575e37e017d217f31f7317f32fd337f36fb36b13",
+    "melspec": "b4f6b4f694e794e7d56fad57a496a496a4962496369e341e355a241a249e2694"
+  },
+  {
+    "name": "Group02_Song4_Music.mp3",
+    "mfcc": "ac168c309c088619880f9c21548d758e75ae75de67d673d273717b714b716b79",
+    "melspec": "b496b496b496b496b496b496b496b496b496b496b496b496b496b496b496b496"
+  },
+  {
+    "name": "Group02_Song4_Vocals.mp3",
+    "mfcc": "a00cd94e80adc94ec48da49c155a2eb117d03fa13f7337a32f9337b32fb32593",
+    "melspec": "90779077d865d96dd96dc96f490f6a166a8e6a8e4a0e5b4a5b4a275a269a269c"
+  },
+  {
+    "name": "Group03_Song01_Full.mp3",
+    "mfcc": "fe18f631aa60b221a049b20940cd726d54ad5db65dd64dd609d659965dde49de",
+    "melspec": "a00da20fa21fa21be61bf65afe9afe8a7e8a5ea95eed5c845c105c307c307ca8"
+  },
+  {
+    "name": "Group03_Song01_Music.mp3",
+    "mfcc": "800fa32da10c9b889bc89dc84bd04956585f7873787178717731747776a776a7",
+    "melspec": "ae0fae0fae0fae0fae0fbe0bfe0bfe0bde0bd68b568a56825612541254525452"
+  },
+  {
+    "name": "Group03_Song01_Vocals.mp3",
+    "mfcc": "805ba273805ba225c0ade22d5c8d7fa55d841f821dd61fd21dd25fb25dd05fd2",
+    "melspec": "804d804da257e252e352775277d27dc279a658ec58ed5c645d347d307f383ea8"
+  },
+  {
+    "name": "Group03_Song02_Full.mp3",
+    "mfcc": "fe80f820e000e000e00be10b600b0b4b0b900bd91afe1fde1fdc1fff17ff3fff",
+    "melspec": "810e810e802e80a682f43af57af47ef07ff17b915b8942ab52ab52ab56a67fe2"
+  },
+  {
+    "name": "Group03_Song02_Music.mp3",
+    "mfcc": "9708952894289108f0307131693168b26ab22ae72af76af52acd27ff27df1fdf",
+    "melspec": "80ab80ab80ab80ab82aa2fe03ff03ff03fd03fd03fd06bd06b467b447f447fc4"
+  },
+  {
+    "name": "Group03_Song02_Vocals.mp3",
+    "mfcc": "83858ad48f448f478d4b1d4b766f7b4f799d7199747874b870b870b870a270e1",
+    "melspec": "8f4c8f4c8f44aa549ad47ad572f5727270f158b952a952ab52ab52ab54aa74aa"
+  },
+  {
+    "name": "Group03_Song03_Full.mp3",
+    "mfcc": "f2e5f3c1f781f7e1b3df33df2dda7ffa69544c160c280c380c1c0c344d0a1b82",
+    "melspec": "b22eb22db2259225b625b225b265b245b645b645b645b745b74db74da64db255"
+  },
+  {
+    "name": "Group03_Song03_Music.mp3",
+    "mfcc": "b66cc245ce5f8e0982858c8f0d1c0f3e372733e13bf431f231f271f079f06c72",
+    "melspec": "934d934d9345b365b364b364b264b264b265b245b245b245b265b665b66db66d"
+  },
+  {
+    "name": "Group03_Song03_Vocals.mp3",
+    "mfcc": "f2a1f2a1b2e1f3f5f3f673d673d6695a4d564d1e4c2e0c280c0e0c0e0f8a0f8b",
+    "melspec": "b03ab032b0b492b5d6a1f281768174456d456d4d7d4d4d694d6b4f5b4bd34bd1"
+  },
+  {
+    "name": "Group03_Song04_Full.mp3",
+    "mfcc": "89128012c002e002e048724963496b496fcd2ccd3efd1efd1ffd1f7d1f7d1d3f",
+    "melspec": "906d90ed90e590e5b0e5b0c5b0e490e498c89f481f380f3a0fba6fba6fba6fb2"
+  },
+  {
+    "name": "Group03_Song04_Music.mp3",
+    "mfcc": "860884008000b0a2b0a370a361a369a369f36b576f5e4f5e5f5e5d7e5d7d5f7d",
+    "melspec": "b142b142b142b142b152b152b152b112b9729f3a1fba1fba1fba0fba0fba0fbb"
+  },
+  {
+    "name": "Group03_Song04_Vocals.mp3",
+    "mfcc": "8e4d9e8d9ecd9e4d9f49996b59aa736a6f22655670b261b661b261b261326132",
+    "melspec": "96ed96ad96ad96ad96a594a596a596a596e99ac98b096b1b691b691269526952"
+  },
+  {
+    "name": "group04_song1_full.mp3",
+    "mfcc": "8389c38dc38cc608c28ce28c4a884ac83afb3cf33c773c773c773c733d723c76",
+    "melspec": "938b938b938f9387938783878387a387a387a387a383a38383c7a3c7a3c7a3c7"
+  },
+  {
+    "name": "group04_song1_music.mp3",
+    "mfcc": "a383a38fa388a308e30ce2846cc004441c765c7a7c7b5c7f5c7f5c775c775cf2",
+    "melspec": "838f838f838f938f83878387a387a387a387a387a3c3a3c383c393c393c3b3c7"
+  },
+  {
+    "name": "group04_song1_vocals.mp3",
+    "mfcc": "8ce494c7998d71f871b8733863386a784e1b4e57ce44ac47ae43b603379b371c",
+    "melspec": "b1aa95aa950a9559952d95a895ac93655b656a256ae56a654a746e556ad56ad5"
+  },
+  {
+    "name": "group04_song2_full.mp3",
+    "mfcc": "b9d1b1f1b0f1f0d1eae2e6e666a66e2e265f075b0b9d0b9d0b0b092e0b2a0d2e",
+    "melspec": "9998999899989998999c99189b1a9b12b313b353b35bbada3aea18ce98de38f6"
+  },
+  {
+    "name": "group04_song2_music.mp3",
+    "mfcc": "9999999991a8eda9efaa6f6a676e646660766252504a54e214f612f712d71ad5",
+    "melspec": "99989998999899989998999899989998999a999a999a999ab99abb9ebaceba6e"
+  },
+  {
+    "name": "group04_song2_vocals.mp3",
+    "mfcc": "b0d4b294b096b094f290588c5aa91e2a4f734f7b454d6d6d4f6b4d694f2b4d2b",
+    "melspec": "9998999899b49995bd153f266b266362666766436643626962eb50cf58df38d6"
+  },
+  {
+    "name": "group04_song3_full.mp3",
+    "mfcc": "8f8f8783cfd38f0bde0a8f8fdc7e0fbf717021c421d020d470f47070707c707c",
+    "melspec": "8f0d8f0fc6a3ebb2aba503a902c88acc87ac07ae8bda8fdf8fdb06eb03a303a2"
+  },
+  {
+    "name": "group04_song3_music.mp3",
+    "mfcc": "9f0f8f0f8f8fff0fe218f3757177726770e060f270e060a070aa08e81de81de8",
+    "melspec": "8f0f8f0f8f8f8f8e8f8f8f8f8e0f8e0e8a8a8a8a8aaa8aaaaaaaaa2aeaaa68a2"
+  },
+  {
+    "name": "group04_song3_vocals.mp3",
+    "mfcc": "8c82858b9c8a8f8b9c2a8faa1ebe0fff73f823f563d563d57055701478547814",
+    "melspec": "9f0d9c0f74b37032713471e870c822cc07ec17f607de8fdd8fd907e307a303a6"
+  },
+  {
+    "name": "group04_song4_full.mp3",
+    "mfcc": "805d801fffeafea8f7a2f6a27fa87ea01a3f197b09550155015f29562c4f0057",
+    "melspec": "80af80af803f807f807f80bf80bf80ff807f807f807f807f80bf80bf80bf8abf"
+  },
+  {
+    "name": "group04_song4_music.mp3",
+    "mfcc": "805f801f8040a820afd077627f622f60632777267ea27fbb7edf589d88dd00dd",
+    "melspec": "80bf803f803f80bf80bf80bf80bf80bf80bf803f80bf80ff80ff80ff807f807f"
+  },
+  {
+    "name": "group04_song4_vocals.mp3",
+    "mfcc": "ff80fc00fe84fe9dd6bfc6ab44bf02ff01ff01762b50214035642f7405760467",
+    "melspec": "80af80a3e423ac6439747f52779a71497f497e405f54191499bc96bc9e9c3e9c"
+  },
+  {
+    "name": "Group05_Song1_Full.mp3",
+    "mfcc": "df8adf8adfcafbcbf1e3e1eb275d27ff2575143c1c1c1c1c003420642074203d",
+    "melspec": "a2a0a2a2aaa28a8a8a9e0b9e1f1c1d1d755575717571756175616d634d734f77"
+  },
+  {
+    "name": "Group05_Song1_Music.mp3",
+    "mfcc": "d481d291d091d298d294949e1a5c1e5e2f5e2f6e2d672d672d6e2d6e29672963",
+    "melspec": "aadaaad2aad2a9d2a5d2b551955555656d256da56d29b929512d5d2555355515"
+  },
+  {
+    "name": "Group05_Song1_Vocals.mp3",
+    "mfcc": "88158a8a98aac14ba165616765776757753556b85e985e9854a876c476d576de",
+    "melspec": "c0a0c2a28aa28a8a8a9e0b9e0f9c1f1d355d75717571757135732d732d730ff6"
+  },
+  {
+    "name": "Group05_Song2_Full.mp3",
+    "mfcc": "807b8459effdaf7dbf7daf7d3fdd7fbd5f0570a2708250825082508240826282",
+    "melspec": "a620a220b2229232923292f293f21bf11bb91bb91f3d1d2d1d2d2f3d6b3d6f3d"
+  },
+  {
+    "name": "Group05_Song2_Music.mp3",
+    "mfcc": "80028006e4c2a682b610b73033305bf17bf15fbd7def5dff4eef4aed426c4264",
+    "melspec": "93399339b331b333b333b333b13393339333933293329332b332b33233723372"
+  },
+  {
+    "name": "Group05_Song2_Vocals.mp3",
+    "mfcc": "910990018105855da57d2f2f6eef6e6f664f5aa05a825a827a927bd27bd27bd2",
+    "melspec": "a402a402a002b202928292d25ad25bf85ff97fb97dbd6d2d6d0d6f1d6f1d6f0d"
+  },
+  {
+    "name": "Group05_Song3_Full.mp3",
+    "mfcc": "a100fb00fe00fe80fe00b700be5054fb0bfb40ff00ff01ff01ff01ff03fe0b7e",
+    "melspec": "955795569454855481548154a154ad5c2dbc29ac29ac69bc78bc7cfc7cfc7ebc"
+  },
+  {
+    "name": "Group05_Song3_Music.mp3",
+    "mfcc": "810481019004944496009503d09b50fd2aff6afe2ffa3ef82ef87ae97feb7deb",
+    "melspec": "9554955495549554855485548554855ca15ca9fca9fca1fce1fce8fc68fc69fc"
+  },
+  {
+    "name": "Group05_Song3_Vocals.mp3",
+    "mfcc": "8009c001d405d502d5a205a62fb43fb25afb52fb7a5d2a5d2afd6afc2afc6bb8",
+    "melspec": "80578057c057c05582550b542b742f7c2fa82fa83baa7faa7e2b7e237ea27ea2"
+  },
+  {
+    "name": "Group05_Song4_Full.mp3",
+    "mfcc": "ddead5aad5ead23a962a93fb1bfa3ff23a352e1521442144200524156fd729d5",
+    "melspec": "c22ac22ac02ae808ed08cdc0cdc0cdd0ecf2fcf6bcf6a4762476347f14fb15fb"
+  },
+  {
+    "name": "Group05_Song4_Music.mp3",
+    "mfcc": "c4abc4aac4aac4aac488840495c76fc9797519753b773b763b566f556e152a15",
+    "melspec": "ecaaec2aec2acc2acc6acc6acd6ace62de62d672d63196319677907710751075"
+  },
+  {
+    "name": "Group05_Song4_Vocals.mp3",
+    "mfcc": "ffcb91c1fff7de3fda3bd27b5a327a3f221a2d1c05c405c004c900886def00c5",
+    "melspec": "922f922dd201f2017b803b801fc06dd06df72cf724f6647e647e657a25ea2dea"
+  },
+  {
+    "name": "Group07_Song1_Full.mp3",
+    "mfcc": "90c8904990cc8149e980e9922d966d1a6f565756563556355ef57eb77733573a",
+    "melspec": "aa54aa54ab5cb1ccb1ccb8dca8d4a8dca8dcb8ccb9ccb0ccb2ccaadcaaccaacc"
+  },
+  {
+    "name": "Group07_Song1_Music.mp3",
+    "mfcc": "90cc96cc92dca2fcaa7c687c69546c137c835da35d8357a35723572357235723",
+    "melspec": "a8dca8dca8dca8dca8dca8dca8dca8dca8dca8ccb8ccb8ccb8ccb8ccb8ccbacc"
+  },
+  {
+    "name": "Group07_Song1_Vocals.mp3",
+    "mfcc": "e080e9018982c90be982e9838cc61f7b12fc527c567c167d16fd36fd16fd167c",
+    "melspec": "8e568e56d328512b51eb54c32cd7a8d528e531a971a957aa569a4e966b5c6b4d"
+  },
+  {
+    "name": "Group07_Song2_Full.mp3",
+    "mfcc": "c85ad290d29090d29290b068b8143df82d2c2d2f2d2f276f276f2f6d2f6d6ded",
+    "melspec": "a120a922ad92ed9aa97aa96aa96aa96aa96aa96aad6aad4aad6aa96aa96aad69"
+  },
+  {
+    "name": "Group07_Song2_Music.mp3",
+    "mfcc": "d212d210d210d29092d0929e36a632863fae3dee2d6e2ded2de96de96d696d69",
+    "melspec": "ada2ad22ad22a96aa96aa96aa96aa96aa96aa96aad6aad6aad2aad2aad2aad2a"
+  },
+  {
+    "name": "Group07_Song2_Vocals.mp3",
+    "mfcc": "a148c8d1b200e94ad294ad69da163d69321656bd17bf47f216a717a617a757ae",
+    "melspec": "a169a36a4792479e479d21fdb13550a152a938e93cf97c57585638723972ad69"
+  },
+  {
+    "name": "Group07_Song3_Full.mp3",
+    "mfcc": "9d50ee79bf58be50abd5a54e008701a300a640a340ab51ab5fab7fab5d8f7e4c",
+    "melspec": "958395838d512a596a796a798eb594a58ca9ccc949d909d19bd697969716b73a"
+  },
+  {
+    "name": "Group07_Song3_Music.mp3",
+    "mfcc": "91a3c8e1d8f1bce1beec2edd2659265f271f271f631e43364b264b264922592a",
+    "melspec": "9c919c918c918c918c918c918dd19dd19dd19dd39dd39d939d939d939d919d99"
+  },
+  {
+    "name": "Group07_Song3_Voclas.mp3",
+    "mfcc": "810668d1810a9506c8d1b52ad2976f2953b456a97e695eb17e997fb93e893e5c",
+    "melspec": "95839582a1486a586a786a7d5aad56a54ead48ed48c94bdd1ad69696b716b72e"
+  },
+  {
+    "name": "Group07_Song4_Full.mp3",
+    "mfcc": "92e4ffe4f784ffa8ffa0fd8069813f412ad5005f087f007f003f007f227f007b",
+    "melspec": "a2e5a2e582e582e483e582e582e582e582ec8bec8aec8aad8aad9aaf9aee9aee"
+  },
+  {
+    "name": "Group07_Song4_Music.mp3",
+    "mfcc": "d0ecd5aad689d590d400d9004011417129576a572a572ee72f772f7e3b7d277d",
+    "melspec": "aae5aae582e582e582e582e582e582ed82ed82ed82ed82ed8aed8aec9aec9aec"
+  },
+  {
+    "name": "Group07_Song4_Vocals.mp3",
+    "mfcc": "fd177fe8f756dde3e7fc3fd0c9bb367162bc1033003b001f000f003f002f50ab",
+    "melspec": "a0af80bfc05e5174796c7b6d3be93f513f503f502f600fa91ea31ca31c8394d2"
+  },
+  {
+    "name": "Group08_Song1_Full.mp3",
+    "mfcc": "fe02fe00fc00fc00ff00fe80f0816c9001ff01ff01ff01ff01ff01ff03ff02ff",
+    "melspec": "8f0e8f8e978ed685d695d6958a958a968a9a8b4a974a954ad76ad6aac28aca95"
+  },
+  {
+    "name": "Group08_Song1_Music.mp3",
+    "mfcc": "bf02bd00bc00fe00fe02fd00d051151802ff03ff00ff00ff42ff42ff42ff43ff",
+    "melspec": "869e869e869e969e9e9e9e9a9e9a8e9e868e868e868e86869696969296929e9a"
+  },
+  {
+    "name": "Group08_Song1_Vocals.mp3",
+    "mfcc": "807ed68c8e94c68d1d096b856d29697169696b73976ad47e907eb476317270f0",
+    "melspec": "ad2bad2b952b554554d552956a952a94aad2a95a954a556a556a55aa6aaf6ad5"
+  },
+  {
+    "name": "Group08_Song2_Full.mp3",
+    "mfcc": "8c7ecbfa8bfacbf08be8c3ed25e87287349f30157016781b6809741574177417",
+    "melspec": "8f798f798f798d7c8d7c8d788d788d788d788d788d688d388d288d288d688d68"
+  },
+  {
+    "name": "Group08_Song2_Music.mp3",
+    "mfcc": "9e309f78dfd0ffd0dfd0af758b7e6005000f20bf00ef01ff602f102f700f700f",
+    "melspec": "8f798f798f798f788d788d788d788d788d788d788d688d688d288d688d688d68"
+  },
+  {
+    "name": "Group08_Song2_Vocals.mp3",
+    "mfcc": "b417ca268d2b4a65afe84be90fe843fd25987004f4977017794b701f75d457d0",
+    "melspec": "8c488c68c96dcc3454b644b16ba9b69b36db735b6157659621b273a972c952d7"
+  },
+  {
+    "name": "Group08_Song3_Full.mp3",
+    "mfcc": "ad64ad25a525a405a608d26852ba5a8a5a9a5a9a58da599b59db59db59db59db",
+    "melspec": "e8aae8a0af80bf80bf80bfe0ffe0fe78fe10fe017f015f005e405d505f505fc0"
+  },
+  {
+    "name": "Group08_Song3_Music.mp3",
+    "mfcc": "a520a5e4a524a5e4a6e0d2de5a9f5a8a5a9b5a9b5a5b585b585b595b59135917",
+    "melspec": "bea8bea0afa0af80bf80bf80ff80ff80ff80ff80ff807f005f405f405f405f40"
+  },
+  {
+    "name": "Group08_Song3_Vocals.mp3",
+    "mfcc": "e01ac21fa0b6501fa03f78793c7839f11f411fc01ff40fc10fe21fe71fe01fe0",
+    "melspec": "e0a3e0a354071f541fc41fe00bf8c078dc1f5c1f7c0f7c073bc21ff817f851f0"
+  },
+  {
+    "name": "Group08_Song4_Full.mp3",
+    "mfcc": "df74fffcdfef9f79945d8015002b00c32083009a009a238e238e3bda3fea7bb6",
+    "melspec": "8a689a289e289eaa9faa9fbabeb2ae51ae51be599e499648d60ad51ad5108d55"
+  },
+  {
+    "name": "Group08_Song4_Music.mp3",
+    "mfcc": "d754df549d7d9579957fc02b00fb00fa249626a32a836a876a9c6b1c6b0c7b0e",
+    "melspec": "beaa9ea89ea89ea89ea89eb89eb89e389e789e789e5896589650975097509750"
+  },
+  {
+    "name": "Group08_Song4_Vocals.mp3",
+    "mfcc": "8a052bb9802ead99ba0dac955a283ed5415554d6516a51ea61f575d255ea75fb",
+    "melspec": "88458845db2e51aa55ba75ba2dd32fd5ae55ae45be49164a548a55ba6d9a2995"
+  },
+  {
+    "name": "Group09_song1l_vocals.mp3",
+    "mfcc": "dba5dba5dbe5daa5c16dc3ed056e5d6a5c3a5c1a7c1a7c12341a2c1a24582659",
+    "melspec": "a7cba7c9e685d495d49554ad72ad7aad382e3d7a0d7a0d7a097a097009721974"
+  },
+  {
+    "name": "Group09_song1_full.mp3",
+    "mfcc": "b4d590b5c9b5c9b5c977c96ddb6d4f6a4d2a560a768a368a360a369a265a264a",
+    "melspec": "a6cba6cba691b691b691b69db6ad32ad364a354a355a355835783170397039f4"
+  },
+  {
+    "name": "Group09_song1_music.mp3",
+    "mfcc": "a55a8d30ed16fd32d994c1b0dc954ab24ab502ed32cd3649364b36eb12eb13eb",
+    "melspec": "a6d9b6d9b6d9b6d9b6d1b6c1b6c1b6c1b6c1b6c1b6c1b649b449b401b411b411"
+  },
+  {
+    "name": "Group09_song2_full.mp3",
+    "mfcc": "e7e0e060ea66c0268266b02e303e32dd32d530993c991dd90ddb0fdf0f9f0fb7",
+    "melspec": "8b068b06cb22cb20cea1c6a1e688f688f688f6c5f6c4f6a4f6acf6acf4a8fce0"
+  },
+  {
+    "name": "Group09_song2_music.mp3",
+    "mfcc": "8781870994ac920d926d9a21843939e279ca69ae78567ad67ad56ad76dd74733",
+    "melspec": "f624f604f600f600d600d700cf00cf81cf81cf85cf85cfa5cfa5cfa5cfa5cfa5"
+  },
+  {
+    "name": "Group09_song2_vocals.mp3",
+    "mfcc": "8067c4a38e4786228a76c57e761d715d7791719d7199759979987998789c788c",
+    "melspec": "8b078b078b27cba1caa164b974f874d874d8345c34ec34ee34ee34ee34ea746a"
+  },
+  {
+    "name": "Group09_song3_full.mp3",
+    "mfcc": "f1cfffc7fbc7e1aabc23f0f370f3707370f31672047804180e1c0e3c0a1c0f1c",
+    "melspec": "9c739c739ce99ded9dcd98c39ac35ac33ad332d33253701e705c605861586359"
+  },
+  {
+    "name": "Group09_song3_music.mp3",
+    "mfcc": "9e55bfc3bec3f0c3fcc7f0e3f9e378e371ea3412093804380f18473c431c471c",
+    "melspec": "b8e3b8e39ae39ee39ee39ac39ad19ed19ed09e54887c883c887c887c807c817c"
+  },
+  {
+    "name": "Group09_song3_vocals.mp3",
+    "mfcc": "88189d18993c9d189937a0f07477766666d366c766e766c562c56acd7a8d780d",
+    "melspec": "8e308c308c3c8d2ccd0c49cc71cb72cb72c372d373d373d371d3715973597349"
+  },
+  {
+    "name": "Group09_song4l_music.mp3",
+    "mfcc": "9800ab00e700e306e694e20cd15c54d459fe19e657ab54bb1d710df56ffb5a7b",
+    "melspec": "9886988698c69cc69cc698ce98ce98cf98cf9cce9cce98de99ce99c699c69962"
+  },
+  {
+    "name": "Group09_song4_full.mp3",
+    "mfcc": "99ca9984f108d088802a900b801a44b20cbd2ed52f553fd52ff51ef76ef76eff",
+    "melspec": "90009000918699ce9ece3cce3bea1beb1f7316731cf33ceb1cc91ce93dc939cb"
+  },
+  {
+    "name": "Group09_song4_vocals.mp3",
+    "mfcc": "802ad08d910ac089802bd1abb93a2d732eb526553ed43f442ff42ff53ef46ef6",
+    "melspec": "80109110d18c53ce7bce7fee7bea7b62077306312e316c616c296cb96cd92ddb"
+  },
+  {
+    "name": "Group10_Song1_Full.mp3",
+    "mfcc": "f0c1e0e099209b2f9b2c8b3a6a3c2e3a2e1c6e1e24da24cf3ddf25cf25c734c7",
+    "melspec": "a2c1a2c3a2c3a2c3e2c3e2c3e2c1e2c3e3c3e3c3e3c3e3c3e3c3e3c3e1c3e1c3"
+  },
+  {
+    "name": "Group10_Song1_Music.mp3",
+    "mfcc": "f0c1f0e094c18c0bce0b6f1b6e3a4f124f104e341b661be779e63be62bc639c7",
+    "melspec": "a2c3a2c1a2c1a2c1e2c1e2c3e2c3e2c3e3c3e3c3e3c3e3c3e3c3e3c3e3c3e3c3"
+  },
+  {
+    "name": "Group10_Song1_Vocals.mp3",
+    "mfcc": "9337b269932692699b749b336a4c4a9e6add4cd26cd16cc86cd56c996499649b",
+    "melspec": "a759a54bb54ad56a552a59ab4ab54ab44ab44ab44a956a956ab55aad55a555b4"
+  },
+  {
+    "name": "Group10_Song2_Full.mp3",
+    "mfcc": "ff40ff40ba80d440fb809350801f001f002f00bf20af04bf26bf27bf67bf77ff",
+    "melspec": "814b810ba12ba123a923ab69a97ba97ba953a973a973a9738973a913ab13abb3"
+  },
+  {
+    "name": "Group10_Song2_Music.mp3",
+    "mfcc": "ca40ee40c840d842da42d2708077000f20af219d31bd35bd3fb53fbf3dbd3ffd",
+    "melspec": "a932a973a963a96ba92ba969a96ba933a933a933a93ba92ba923a913a933a923"
+  },
+  {
+    "name": "Group10_Song2_Vocals.mp3",
+    "mfcc": "a0a3d55580a8d45589e845d44aba4fd02db277563f8a7f033a2a7a4b3a2b7e4f",
+    "melspec": "800980098089a6a336a03ea47fdc7d5c7d545d5455545574557557571f573ffe"
+  },
+  {
+    "name": "Group10_Song3_Full.mp3",
+    "mfcc": "811e819e81de801ea00ac0db3c0b7d687e013e713e617e217ee17ea57ee57eb5",
+    "melspec": "8d6a896a8a7a8b52a55675967496759675937591779576c562d462d44a954a99"
+  },
+  {
+    "name": "Group10_Song3_Music.mp3",
+    "mfcc": "805c809e80fe805e800a805bbd1a7f217f127f217f217f217fa17ea17ee57ea5",
+    "melspec": "a95aa95aa55aa55aa55aa55ab55a35c235c236d276d27ed46ed44ad44a544a75"
+  },
+  {
+    "name": "Group10_Song3_Vocals.mp3",
+    "mfcc": "9c039e339c739a81b5497a896549628f650963d2237e63b661be63be61ac63bc",
+    "melspec": "8c6b9a6a9a629a32563656b656b674b565916199619d618d619d6395729d729b"
+  },
+  {
+    "name": "Group10_Song4_Full.mp3",
+    "mfcc": "e7feeffffffeffbfbfde3fca27ce16cb138d1008100000010021502150634267",
+    "melspec": "86dea6dea4f9a4f9a659a65aa65aa65aa65aa650a652a652a64aa66aa66ba649"
+  },
+  {
+    "name": "Group10_Song4_Music.mp3",
+    "mfcc": "c7f2c9f3c9b3d9b3fdb3bf9337dd364c360c360c360c364c3e0c544c406c406c",
+    "melspec": "a6daa6daa6daa6daa6daa6daa65aa65aa65aa65aa64aa64aa64aa64aa65aa452"
+  },
+  {
+    "name": "Group10_Song4_Vocals.mp3",
+    "mfcc": "904d683c89d645298ad65a69b76648d337253c933f077573b34b3e513a833f83",
+    "melspec": "81ce81ce68b96c3174352657b24eba6a7ab848914d976e56b646b76633297aa9"
+  },
+  {
+    "name": "Group11_Song01_Full.mp3",
+    "mfcc": "8102c102c1028102e102a102319231d73cfe3efd1efd1efd1efd5efd5ebd5ebd",
+    "melspec": "94a594a590a592a592a592a5daa5da654b746b546b5e6d5a6d5a6d5a6d1a6d1a"
+  },
+  {
+    "name": "Group11_Song01_Music.mp3",
+    "mfcc": "8001950081008100d100a1007594319e74fe7efe6efb6efb6eff6eff4efd4ef5",
+    "melspec": "f5e2f5e2f5a2f5a2f5a2d5b2d5b4d5b45fb54b350a350a350a350a150a1d0a1d"
+  },
+  {
+    "name": "Group11_Song01_Vocals.mp3",
+    "mfcc": "84eb8ae786e7a52b2f936d3b6d1a6d1a7c9458d45a5452545354731c715c715c",
+    "melspec": "9e259e259a259a259a259a65da6d4a6d6b46635e655e655a655a65ca658a659a"
+  },
+  {
+    "name": "Group11_Song02_Full.mp3",
+    "mfcc": "e6f8ccfa8efb8dfb8d7a8c3a3c161d3633156385638d72047305730573057207",
+    "melspec": "9f2d9f0d9f0d9f0d9f0d9f0d9f0d970db709b7089708df08cf08cf08ce08ee08"
+  },
+  {
+    "name": "Group11_Song02_Music.mp3",
+    "mfcc": "b2658e7d8ffd8f779c76987434161532578a538a7388518e7388639b618f7007",
+    "melspec": "9f099f099f099f099f099f099f099f099f089f089f08df0cf70cf70ce70ce70c"
+  },
+  {
+    "name": "Group11_Song02_Vocals.mp3",
+    "mfcc": "b225b625b6659565952d05e565b44bd463d872da6ada6ada7a5a48da4ada4992",
+    "melspec": "9565976593659365b325b325b325b32db12db529b1196bda4ad24ad24ed24cd2"
+  },
+  {
+    "name": "Group11_Song03_Full.mp3",
+    "mfcc": "800a8782878ac00286020feb6c727e657e557a5578d578557955795d797d797d",
+    "melspec": "8b4d8b4d8b4d8b4d8b4d8b0d9b0d9b2d932dd36d436e626e626e626662667266"
+  },
+  {
+    "name": "Group11_Song03_Music.mp3",
+    "mfcc": "81458705878580018b050fd538757ef57efb74ba76aa70aa70aa797a787e7874",
+    "melspec": "8d498f498f498f4f8f4f8f0e872e872e832ec3265326532653267326732673b6"
+  },
+  {
+    "name": "Group11_Song03_Vocals.mp3",
+    "mfcc": "9ad99a999ba9db2f67226666666265666546655464d5a4d564d665b245ba45b2",
+    "melspec": "9b2d9b2d9b2d9b2d9b0d9b0d9b1d9a5d9acda2c9664a664a664a664a664a664a"
+  },
+  {
+    "name": "Group11_Song04_Full.mp3",
+    "mfcc": "8f07878783c183ef8227026277f0701f70027df07df87c0e7c1e7cd8789c7cd8",
+    "melspec": "9944994499449944994499649d659d659d259d25cda5edadefa96ba96aa96ab9"
+  },
+  {
+    "name": "Group11_Song04_Music.mp3",
+    "mfcc": "9d87878387838bbe898e84843df07017701573707b7a780b7a6f786c786d7c68",
+    "melspec": "aaa5aaa5aaa5aaa58aa78ea38ea385a385a395a3d5aad5aad5aad1aaf12af128"
+  },
+  {
+    "name": "Group11_Song04_Vocals.mp3",
+    "mfcc": "994d994d914d916c932a52aa62aa62bb66bb6cb26cba64b866b166b16ab36ab3",
+    "melspec": "915691569156995699569954996499649964c96569256bad6bad6aad6ab96eb9"
+  },
+  {
+    "name": "group12_song1_full.mp3",
+    "mfcc": "ec24e425c4a5e4a5e4a5e4a575a539a939fa39583b5a3b5a1b5a1b5a1a5a1e5a",
+    "melspec": "ab5aab5aab56ab54ab54a954a954a954a964a966a966a966a966a953a953a95b"
+  },
+  {
+    "name": "group12_song1_music.mp3",
+    "mfcc": "894888009008d481e4a1e4a725a7257325f32dfd3f793b7d0b5e5b7e5b5e5a9e",
+    "melspec": "ae5cae5cae54ab54ab56ab56a956a956a976a966a966a946a942a94aa95aa958"
+  },
+  {
+    "name": "group12_song1_vocals.mp3",
+    "mfcc": "b937a9549d2795af56a956a956a552996a522b54ab56ab526652664a56ca66ca",
+    "melspec": "9b0a991a9153b1752565655564956c956eac66ae66ce26c65676573345336db1"
+  },
+  {
+    "name": "group12_song2_full.mp3",
+    "mfcc": "abf5dff5d324cba4d0c0d3246ac874d228d62cd729172d17295738177c5b340b",
+    "melspec": "80f583f58391ab81ab81aad1aad1aaf5aaf5aad1aae1aaa1aaa1aba1abb5ab15"
+  },
+  {
+    "name": "group12_song2_music.mp3",
+    "mfcc": "83fd81ebd4ead4aad52ad62a762a36137f177b157b546b542b542bd42a846a04",
+    "melspec": "aaf5aaf5aaf5aaf5aaf5aaf1aaf1aad1aad1aa91aa91aa81aa81aa81aa81aa81"
+  },
+  {
+    "name": "group12_song2_vocals.mp3",
+    "mfcc": "833d94e9833d8b3c68d78b346adc78d06c343cc2752275827cc37d237c9b7c83",
+    "melspec": "81fe81be9703970337833cc23c403c457c657ce178e96a694b294b2dcb3dcb3d"
+  },
+  {
+    "name": "group12_song3_full.mp3",
+    "mfcc": "afbde7bdeff3fbf3f1f7e5b7b66f5a2a0a0221591c890888080e0006240c58af",
+    "melspec": "8f1c8f1c8f1c871c871c871c871c871c871c8f1c8f1c8f1dacbdacb9acb9acb9"
+  },
+  {
+    "name": "group12_song3_music.mp3",
+    "mfcc": "9eff9edbedf3e5e5e5a5e5bc272d67386308420c5a845a4e5a4a584a1a4a18c2",
+    "melspec": "871c871c8f1c8f1c8f1c8f1c8f1c8f1c8f1c8f1c8f1c8d1dac9dac99ac99acb9"
+  },
+  {
+    "name": "group12_song3_vocals.mp3",
+    "mfcc": "9e029a829a529af29d5798fb10ff41ff61c7650d75216528651c67a8652d65bd",
+    "melspec": "98e39ae3daca76c964c9645955d9759d351521562b36bb26a2242aacaaab8eb3"
+  },
+  {
+    "name": "group12_song4_full.mp3",
+    "mfcc": "b921ff3ffe2ffc75acb7fc27bca33cf330f003cd0398039803dc01d803c803d0",
+    "melspec": "a195818599a99989918991b9b9b8b9a8b9a8b9b8b9b8b9b8b999b9d999d199a9"
+  },
+  {
+    "name": "group12_song4_music.mp3",
+    "mfcc": "9311c723c723e733f737fc7938f1389838fc34fe2cdc2ccc08cc0acc0bcc0bc9",
+    "melspec": "b1b9b1b9b9b9b9b999b999b999a999a999899988999999899989998999899989"
+  },
+  {
+    "name": "group12_song4_vocals.mp3",
+    "mfcc": "e80e8fcfca8ed80f8feaf806e82e0fe1701503f13551317037f13331777135f0",
+    "melspec": "87478747c747c70dc70d653c6dba78ba38ba38ba38b838f039d1195131553975"
+  },
+  {
+    "name": "Group13_Song1_Full.mp3",
+    "mfcc": "f400ffd1cffebff887feefc03f8000cf24070077303b4823382f102f780f780f",
+    "melspec": "a0ffa25fb65db659b651b64db60db601b011b018b60db60fb60fb24ab668a4e9"
+  },
+  {
+    "name": "Group13_Song1_Music.mp3",
+    "mfcc": "c502c5f0c5d8c7f1cff1cfd14fd136d13645330e390e382e382e382f322f382f",
+    "melspec": "b64db64db65db64db64db64db64db64db64db64db24db209b209b209b209b00a"
+  },
+  {
+    "name": "Group13_Song1_Vocals.mp3",
+    "mfcc": "cdff3e0dc9ffbf688b1ef8ea3f0e40ee361440d706354491065145954d9543d4",
+    "melspec": "c1fe81ff37193e117e71648467865c80189098189f0e370f372737667ef06cf9"
+  },
+  {
+    "name": "Group13_Song2_Full.mp3",
+    "mfcc": "802ac208c028e2008020a762266227f7074f1f8d2ecf0fff1fd759df7fd57df5",
+    "melspec": "a602a602828b828ba68ba71aa73a86ba97ba951ab51ab7bab7ba97ba953a873a"
+  },
+  {
+    "name": "Group13_Song2_Music.mp3",
+    "mfcc": "d0109800d800e808c808b24c664d26ca266f27e707e727f72ff72ff72fdb3fdd",
+    "melspec": "a62aa62aa63aa63aa63aa6baa6baa6baa7ba873a863a863aa63aa63aa63a863a"
+  },
+  {
+    "name": "Group13_Song2_Vocals.mp3",
+    "mfcc": "8572e28d89327285b5307b513d527d31355851bd58ee48ee142f056e5d3f4d6e",
+    "melspec": "a050a050d28d5a8d6a8d6f4a6d624cea55ed35c4355635d617bf15bb1d720d7b"
+  },
+  {
+    "name": "Group13_Song3_Full.mp3",
+    "mfcc": "e102f0c0f040f040f040f050f87038390f4f0f8f1f2f0fbf0f9f0fbf0fbf0f9f",
+    "melspec": "8d09a91eb166b166a5a425b525b521e2ad0bad99ad59ad6bad6bad99289d722c"
+  },
+  {
+    "name": "Group13_Song3_Music.mp3",
+    "mfcc": "cc0cce88ce08cc08c848c0c9f1633173317339733977397333b733b737b735b5",
+    "melspec": "b923b923a922ad60ad4cad4ead4fad4dad0dad21ad21ad20ad23ad2fa53fa037"
+  },
+  {
+    "name": "Group13_Song3_Vocals.mp3",
+    "mfcc": "8378b6a69274a6968c5a56342cdb7665694b4b2b7d2b79616999596969596949",
+    "melspec": "8f1d8f1c334671a652a552b570b172a2492b8d99ad5bad4ba94be8d96a9d722c"
+  },
+  {
+    "name": "Group13_Song4_Full.mp3",
+    "mfcc": "ba85fc0ffc0ffc03fb17fb23793123a2039803f807d807ea05fc01f803fc01fe",
+    "melspec": "8af98af98ae98ae98aedaaaf2aaf2aa7aab5aab52aa12aa12aa12aa13ac72a8e"
+  },
+  {
+    "name": "Group13_Song4_Music.mp3",
+    "mfcc": "8ad1cad4dcd3dcc3d8479c5718653c6a3e36373e3738233827a867aa65a845c9",
+    "melspec": "aaa7aaa3aaa1aaa1aaa5aaa5aaa5aab5aab5aab1aab1aab1aab1aaa1aab1aab1"
+  },
+  {
+    "name": "Group13_Song4_Vocals.mp3",
+    "mfcc": "aee0d544aae0f740fb907ab073116ab3455704ef046f04ef05ff04bf083f293f",
+    "melspec": "83d981d98559854885cf24cf7c0f7e2f6ba763b57125782078607a627e467ace"
+  },
+  {
+    "name": "Group14_Song1_Full.mp3",
+    "mfcc": "f040f042f040e040e440e848e681742e0fb50df51fb71fb70fb70fb70fbf0fbf",
+    "melspec": "8591873287329b3a5b6a7b4a7348614d6ccd6ccd6cc470f470f570d179d179d1"
+  },
+  {
+    "name": "Group14_Song1_Music.mp3",
+    "mfcc": "80008000800080008002802bd68a5c5f75b57edc6dfd2fdc6ffd7fff77ff7fdf",
+    "melspec": "aba8aba8aba8abb8afb76e976ed76ed74457405740764066006e206e286e287f"
+  },
+  {
+    "name": "Group14_Song1_Vocals.mp3",
+    "mfcc": "8f428b4a87528d4aa5c52ccd64c564ad74b578b17ab75a3372337a32723a733a",
+    "melspec": "8591871287329b7a1b6a7b4a7348614c6ccd6ccd6ccc74b570b570d179d179f1"
+  },
+  {
+    "name": "Group14_Song2_Full.mp3",
+    "mfcc": "950ad50a9508c108e8212ac13ad12ed12afb2cbf36be16be36bf5e7f4a654b75",
+    "melspec": "89508910c100d108d508d14e915aa3d3a3d3a3f3b3f315f715f735f72be72be7"
+  },
+  {
+    "name": "Group14_Song2_Music.mp3",
+    "mfcc": "81138112a110b1d8b8ca34ee38eb36ab36b936b9766d766f6bcd4bec4b544b16",
+    "melspec": "b5d1b5d1b5d1b5d3b1d3b1d3a1d3a153a153a953a953a903a927292729272927"
+  },
+  {
+    "name": "Group14_Song2_Vocals.mp3",
+    "mfcc": "830cd10cc90ccb00d501aa9154f128d334f33cd234fa36fa36fb36fa36eb3f6b",
+    "melspec": "c804c804c804d10cd10cd10cd30cc30c23bc23fd13fa17fe17fe37ff33ff2aff"
+  },
+  {
+    "name": "Group14_Song3_Full.mp3",
+    "mfcc": "9fffdffd904580188014001e4012603a60926ad16ba96ba37ba567f76fa37fdb",
+    "melspec": "aca6aca6aca7aca5aca2acaaacaaacaaacaaacaaacaaacb2aca3a4aba4ada4ad"
+  },
+  {
+    "name": "Group14_Song3_Music.mp3",
+    "mfcc": "c115c12088009c609ce71cef18ed2aed238f759f77da779a769a67da729a6229",
+    "melspec": "acaaaca2aca2aca2aca2aca2aca2aca2aca3aca3aca7acafacafacadacada4ad"
+  },
+  {
+    "name": "Group14_Song3_Vocals.mp3",
+    "mfcc": "80275459a007c258a117627af51366ea7dc25ec06ea93fe26bad7fd22aa15fd2",
+    "melspec": "a536a575b57530e572ad5e2a5e0a4a8a4a8a4aca5bda5f5a567a563a52a652a5"
+  },
+  {
+    "name": "Group14_Song4_Full.mp3",
+    "mfcc": "9110b913fc01ed05f608ff0c7ec86adc02ce06f60fe70bf302fa02fa03fb4bf6",
+    "melspec": "a1a9a9a9a9b389b389a6a8a6aaaebaacb8cc98cc904e984ebacebac61ad61ed6"
+  },
+  {
+    "name": "Group14_Song4_Music.mp3",
+    "mfcc": "91589148b505bd05bd43ff617fc36906038642db429f42fb42fa42fe42fe42fe",
+    "melspec": "abe8a9a8a8aca8ac88eea8ecabe8abc8a9cc88ce88ce89ce99dc99dc99d691d6"
+  },
+  {
+    "name": "Group14_Song4_Vocals.mp3",
+    "mfcc": "fbb84d3682ba6536c0d8641d62cd7c5c22c93e843fc33f029fe31d028fc31d67",
+    "melspec": "80b981b985335d335d336ab66aa67aae794c5d4c504c7a4a6a4e6ac67e865ec6"
+  },
+  {
+    "name": "Group15_Song1_Full.mp3",
+    "mfcc": "8000828180008091a0048cc1f16415443f6f6fab7bbf7bbf7b3e7f7f736e7d7e",
+    "melspec": "90648ac5ca934a9bcba9972493648a92ca9a8acb9565976587f64eda8cdb9ed5"
+  },
+  {
+    "name": "Group15_Song1_Music.mp3",
+    "mfcc": "88c088c180808088c008418963d86edb77573757375637777d377fb76baf7bad",
+    "melspec": "828082818aa18aa38aa38aa38ab38ab38ab38ab38ab38bf38bf787f69ff697d7"
+  },
+  {
+    "name": "Group15_Song1_Vocals.mp3",
+    "mfcc": "8da68ad39ca788d39d6488d33424d71ce34c732a76387768734c7758732c771c",
+    "melspec": "94649cc76a9b6a9b632d9564b764629a6a9a88cb956db56466966cda48db8a55"
+  },
+  {
+    "name": "Group15_Song2_Full.mp3",
+    "mfcc": "c002c002800280028002804a805707731fa87fa07ffd7ff97ff97ff97ffd7ffd",
+    "melspec": "9011909192909290d6b045b06db07da47da45da55da75da75d877d857fcd6bcd"
+  },
+  {
+    "name": "Group15_Song2_Music.mp3",
+    "mfcc": "90048004800480048046c046402766a27d987db07fd97ff97ff97ff97ffb7fff",
+    "melspec": "c026c026d084d090d9b0d9b099b0b9b0b99439943db77db77db77d943d9c59ad"
+  },
+  {
+    "name": "Group15_Song2_Vocals.mp3",
+    "mfcc": "a2d8b8f8aaf8badab978b95b696d5d4d55075d2755055d054625464746a54687",
+    "melspec": "999999d9b2d9b2d264f664a664a6642645265f2f5b2d5b0d4f4d4a456a556a55"
+  },
+  {
+    "name": "Group15_Song3_Full.mp3",
+    "mfcc": "901280178015805088918ed81c692c7a7ffa77ce7f8c77ec73a777867f827d6b",
+    "melspec": "9234923493b693b693b693b692b492b492b692b693b6b3b7b335932792329296"
+  },
+  {
+    "name": "Group15_Song3_Music.mp3",
+    "mfcc": "8003802a801bc01ac653d6525e7f5efe5ab45a947a947fbc7da57da13d253d2d",
+    "melspec": "9236923692b693b693b493b492b692b692b692b693b6933493a593b493b692b6"
+  },
+  {
+    "name": "Group15_Song3_Vocals.mp3",
+    "mfcc": "8c94b2259e9c967499b59edc33234edc61c369da61cb61cb654b61c361cb694b",
+    "melspec": "ad29ad29add572d77252727256345e94dc9c8d8aadaa213323752363aa6acacc"
+  },
+  {
+    "name": "Group15_Song4_Full.mp3",
+    "mfcc": "a6c4e680e420e000e004e12078e4317515de575b4f5f0f7f4bfb0bbb1bfb13fb",
+    "melspec": "854387438647864f86cf86cdc6cdc6ccc6ccc6ce8ede8c5e8cdc8cdc0cdc2cdc"
+  },
+  {
+    "name": "Group15_Song4_Music.mp3",
+    "mfcc": "a644b240b060b020f028f12a5ce448a9498d4d9d4f9f4f9f0f9f0fdf0fdf1777",
+    "melspec": "c6c7c6c586458647864786cf86cd86cc86cc86cd86cc8e5c8edc8edc9cdc9ddc"
+  },
+  {
+    "name": "Group15_Song4_Vocals.mp3",
+    "mfcc": "b8f4b1b4b1b7b3b7bbb78fa7bbb373114751474946494e494e4944c960484cc8",
+    "melspec": "b933b133b322922e526c46ec4ecc4ecc4ecc4cd26dd2add26d516d496c4d6ccd"
+  },
+  {
+    "name": "Group17_Song1_Full.mp3",
+    "mfcc": "f000b030b400a01080028092c38a48b36b8e58f73e7d7e7f7bef4fef4fe74fff",
+    "melspec": "89a589a78d67957333373337731572cc78cc7ccc78dc729c629c239d23192619"
+  },
+  {
+    "name": "Group17_Song1_Music.mp3",
+    "mfcc": "cba0c8309410941094469916183f48a66ee976e877e873cc63cd36d977ef6fe7",
+    "melspec": "b569b569b569956d946dc834ca344ab44ab44ab44ab44ab44b966b9677c237cb"
+  },
+  {
+    "name": "Group17_Song1_Vocals.mp3",
+    "mfcc": "cba19b22cba1cba2c9e6cbb8e3a67459754c345f345c345f345c345c345d3459",
+    "melspec": "c9a6c9a6c9b6997637733373335b75c974cc74cc34cc344c330c231d2319e719"
+  },
+  {
+    "name": "Group17_Song2_Full.mp3",
+    "mfcc": "8e02fe14fe03fc16f211ad4afa2b05c10cee00f509fe01ef01fe03ec61fa71ef",
+    "melspec": "81d883988398e2b662b672367c6e3c6e3e493e497e017e356c356ca72ccf0ccb"
+  },
+  {
+    "name": "Group17_Song2_Music.mp3",
+    "mfcc": "858a8dcb8d8a85838780c792e70b1cb4187d387e387c307c727f72f572f572c5",
+    "melspec": "b807b807b807ba0fbbef1bef0be803e803e803e817e812f952f551f541f605d6"
+  },
+  {
+    "name": "Group17_Song2_Vocals.mp3",
+    "mfcc": "85c9723483e14d1ea2b58d4e6eb637452d4e73c17d265c4330f11c4b7c637c6b",
+    "melspec": "81d883988398c3b663b660367c663c6f3c493e497e017e356c376ca72ccf1ccb"
+  },
+  {
+    "name": "Group17_Song3_Full.mp3",
+    "mfcc": "c000d800c800cc00d908f0963daa348a36ba2eef0ff70fff07ff03ff23ff277f",
+    "melspec": "84e2c0e3c155cb54cb14b19cb198399c391c3a9d3e9f3e233e632e636e6346f3"
+  },
+  {
+    "name": "Group17_Song3_Music.mp3",
+    "mfcc": "c018c000c000d200cb00db025a546d8266f527ef2ff72fef2fef2fe72def34ff",
+    "melspec": "96829693869f849f841ba41ba449a849ab492b696b797b787a787a707a747b74"
+  },
+  {
+    "name": "Group17_Song3_Vocals.mp3",
+    "mfcc": "84f3592cc354ade37b1cb4d73d2a34d5761668694e654e4996c296925f226f23",
+    "melspec": "c1e2c1e3c165cb744b54319c319c399c399c3a9c3e9d3e833e232e636e63c6e3"
+  },
+  {
+    "name": "Group17_Song4_Full.mp3",
+    "mfcc": "dfb8f6a996e7a799b667a599251835714918495270e679e64946496649766952",
+    "melspec": "962996a99ae5dae56a647d7a753a75326d946c94789079526d5a8d1ac5998589"
+  },
+  {
+    "name": "Group17_Song4_Music.mp3",
+    "mfcc": "973096b4e6d4f4c6754e70ca70e630cf30e719a739332b3a0b3b0b334b3b4b31",
+    "melspec": "f0e3f0e3dde0dfe0ffe0def0de30de30df309f309f309f301f301f001f804081"
+  },
+  {
+    "name": "Group17_Song4_Vocals.mp3",
+    "mfcc": "8f0a32a196a7ad1bbaa5a599ab1a54b7691c695678c4494e4d4e594e5d4e795a",
+    "melspec": "972d962d9aad5ae56a44655a753a659269946895789579526d5acd1ac599859d"
+  },
+  {
+    "name": "Group18_Song1_Full.mp3",
+    "mfcc": "8e409601fe81fc11dc95fc1ca85243d604fa017b11af03ef03ff03fe01ff29fe",
+    "melspec": "81d381e381e183e583e583628b628a6e8e7c8e5d9e5c9e7eaa5eaa5aaa56c656"
+  },
+  {
+    "name": "Group18_Song1_Music.mp3",
+    "mfcc": "8e4c8e01be01fe41fe44fa5d56cd42cd51b643b661b241bf41bb01bb21bf51ba",
+    "melspec": "83c383c381e381f383f183f183718e748e5c8e5e8e7c8e7c8e7c8e7c8e568a56"
+  },
+  {
+    "name": "Group18_Song1_Vocals.mp3",
+    "mfcc": "8162d4b094b0a970d4b084b0a850549366c7634f7b4f7b4f6b4f7a4f7a4f7a4d",
+    "melspec": "8b3a8d3954ad568d564d672eaba2a8ea54e9549955953993a94ba95aab5a5654"
+  },
+  {
+    "name": "Group18_Song2_Full.mp3",
+    "mfcc": "dc3ed871fa3df879bd7da96e07552bca4bae568346ab47830682668247820786",
+    "melspec": "ad0aac28bc29d031d0b4d056a956ad2aad2acc2ade2bde55dc55fc54ad6aaf2a"
+  },
+  {
+    "name": "Group18_Song2_Music.mp3",
+    "mfcc": "9c3e9c7c9e7e9eeabafa72f162ab38f171e179a0714671c64384470523070a96",
+    "melspec": "e000e820a820a820ec22fc22dc20dc28dc28dc2afc2bfc2ffc3dfc7dde7dde7f"
+  },
+  {
+    "name": "Group18_Song2_Vocals.mp3",
+    "mfcc": "803ed055882db016dc55a92a56552fea5fab67d22faa4fc267ca67c247c267c2",
+    "melspec": "ad1ead1dd42952b552f552d42b56ad4aaf2acfaa5ee152d550555554a12aa9aa"
+  },
+  {
+    "name": "Group18_Song3_Full.mp3",
+    "mfcc": "8001c003eaa1e211e281e2a561666d5e3d5416b81fe91ed81ffc1dfe1d7e7d7e",
+    "melspec": "ad52a863aaa7dae7a863a942a863d4a1d4a19445bd56b946faa5d2a5a975a955"
+  },
+  {
+    "name": "Group18_Song3_Music.mp3",
+    "mfcc": "80c180818281c311fb21f341778776ad7bac2d14693e2d7e6d7e15fe1c7e1cde",
+    "melspec": "b863a863a863a863a863a863b8639861a865b865b865bc45bcc5bcc7bdc79de5"
+  },
+  {
+    "name": "Group18_Song3_Vocals.mp3",
+    "mfcc": "a070572e82a5a55cb5028ea9d16e2b125dc152fd5dc76b435ba17a99799179d3",
+    "melspec": "ad52ad547aad5aad6b662d5a655a56a956ad9550a552314e52ad52ada951ad52"
+  },
+  {
+    "name": "Group18_Song4_Full.mp3",
+    "mfcc": "fe82fe83ff81fe80fdaafd0afeaa587902dd037701f5017c017c017d017c007c",
+    "melspec": "a155a955a955a955ac5d849ec6ba46aa42aa42aa4aba4aba4aba5ab15add57dd"
+  },
+  {
+    "name": "Group18_Song4_Music.mp3",
+    "mfcc": "9fc3ff03ff83ff08fe41fd93ffa348b701a7006d027c027c007c037c00fd00be",
+    "melspec": "a82ea82ea80ea145805580f581f582f382f3a2bb2aba2aba0bba0ff357f357fd"
+  },
+  {
+    "name": "Group18_Song4_Vocals.mp3",
+    "mfcc": "835ca9778545b067cdaa936b44a24b2b5e9c6a957a9d629c729972995a997299",
+    "melspec": "a155a155ad55ad552c5d7e9856aa54aa54aa52aa5aaa4aa24ab46a75ba5dbb4d"
+  },
+  {
+    "name": "Group20_song1_full.mp3",
+    "mfcc": "dbfffb8f98b7ae8bf7ed96ec264c4292516a097359b359b02558021c24582459",
+    "melspec": "8e568a56aa91a9b18d5b945a9654d6649564856c864ea6ddaadda969a97a99ba"
+  },
+  {
+    "name": "Group20_song1_music.mp3",
+    "mfcc": "c950c9328822d9e2fdf99f792193358337bd661f664d6e4d7ef75465107010b0",
+    "melspec": "ae5dae5d8e578e928a128c548d548d558f6d9f699f288d0a8d168d168d378d2f"
+  },
+  {
+    "name": "Group20_song1_vocals.mp3",
+    "mfcc": "88236309d0b6aa4956245a1aae4c5a9351aa99f75d911dfa275c7ef42cfa3579",
+    "melspec": "8a468a166b9179b1753b564a564e56a455642566a64ea2ddaadda969a97a5b9a"
+  },
+  {
+    "name": "Group20_song2_full.mp3",
+    "mfcc": "8c1f86af824cae848a4baa03c213618967f87f6c7dfc7d2c59267167716671b2",
+    "melspec": "8d9c8d9c8d9ccd9ccd98cd98cf994e994e994e194e194e194e194f164f1ecd1c"
+  },
+  {
+    "name": "Group20_song2_music.mp3",
+    "mfcc": "b249b06ebe0dbe0cbca4bc0469b269f04d7c4dd3479343c343c343e25f72572e",
+    "melspec": "cc98ce98ce98ce98ce99cf19cd19cd19cd19cd19cd19cd18cd18cd1ccd1ccf1c"
+  },
+  {
+    "name": "Group20_song2_vocals.mp3",
+    "mfcc": "8367c7a38366c687835bc29f8a4326913f997c3c3d383c3c783c781c797c7898",
+    "melspec": "8166816685a685a4c5a4c59866996e996e996ed96a596a5b6a5b7a573a763876"
+  },
+  {
+    "name": "Group20_song3_full.mp3",
+    "mfcc": "ab46f56bbbefd76bdbabb29f57af7a955cd02cd424742454281404944c145419",
+    "melspec": "804480468162816a856a5b6e6bb72b352bfd2edd2fd92fc92fca2fd23ad23ad2"
+  },
+  {
+    "name": "Group20_song3_music.mp3",
+    "mfcc": "a006f006f4a7d02fd6aed4abd6af63b563394a716b512b792b7029580ddc0ddc",
+    "melspec": "ab57ab57ab56ab56ab54a954a856aa56aa56ab56ab562b542b54295629562952"
+  },
+  {
+    "name": "Group20_song3_vocals.mp3",
+    "mfcc": "8243d56b82c38160c089aad553a92ad57d903d9c3db43d363d363f363e167f95",
+    "melspec": "804480408062d56ad56a512b5b3f6b3d6bbd6edd2ec96fc92fca2fc23ad23ad2"
+  },
+  {
+    "name": "Group20_song4_full.mp3",
+    "mfcc": "f7f3effbfff389fbd9e0897a496c10827e0c3005661f7605260d368d1684120c",
+    "melspec": "8c0e8c088f21b3333333653a4dfc4d7c545858d95ad55ad552d6635663d667b6"
+  },
+  {
+    "name": "Group20_song4_music.mp3",
+    "mfcc": "c30cc34ec34cc276c25cc014f835183c3cb23cb13ee23fe33fe33fa33d8b5589",
+    "melspec": "b563b563b563b56bb56bb56b196f492d483d481d48954a944a944ad54ad572d4"
+  },
+  {
+    "name": "Group20_song4_vocals.mp3",
+    "mfcc": "bca5095b9ca5095bdfac99fb430af4c6635cf684261162b4665462f4768467b7",
+    "melspec": "880c880c8b353333333261ba4dfa4dfa54585ed95ed15ed17752637a63766536"
+  },
+  {
+    "name": "Group21_Song1_Full.mp3",
+    "mfcc": "c445d445c445c445c444c444064e270a2fba2bba3bba3bbb3bbb3bbb3bb33bb1",
+    "melspec": "a50aa58ab29b9293d29552b556f455747d744af44ab54ab54ab549564d4e6d6a"
+  },
+  {
+    "name": "Group21_Song1_Music.mp3",
+    "mfcc": "a90aa009c001c405c415c415441546944eae6eee2eea3ffa3bfa3bfa3bfb3bfb",
+    "melspec": "c4c6c4c6c4c6c4c494c031b933b939f9397939793979393b4b3f4e2f4e074e07"
+  },
+  {
+    "name": "Group21_Song1_Vocals.mp3",
+    "mfcc": "b51292b6b5baaa92b2a9a55a4a9564484d4d4d494d6d4d6d4d6d4d6d4d6d4d65",
+    "melspec": "b52ab1bab2bb92b352b5569556d455544f544af44ab54ab54ab549546d4a656a"
+  },
+  {
+    "name": "Group21_Song2_Full.mp3",
+    "mfcc": "800080018000800082038286323f74fc75f775fc7dfc7dfc75fc3ffe37fe3bf7",
+    "melspec": "9331933191118911cd58cc58ccc8c6c8c6c8d6ecd6adcaed4acd6add6add6ade"
+  },
+  {
+    "name": "Group21_Song2_Music.mp3",
+    "mfcc": "80008001800080028103839a4d166cd56ad77ad57adc6efd7fec7fee7fee7fff",
+    "melspec": "8b198b198b898f898689868d868d868c87888fd48f558f4dcf4deeec66ec66ee"
+  },
+  {
+    "name": "Group21_Song2_Vocals.mp3",
+    "mfcc": "b335bb539365bb33932592b5552d46ea64a84cca44ea6cca6cda4cda4cda4c9a",
+    "melspec": "91379137b136a9526d526d5a6c4a66ca56e856ec56ad4aad4a896ad96ad14ad3"
+  },
+  {
+    "name": "Group21_Song3_Full.mp3",
+    "mfcc": "84018001800380018001da0980013f7e65e07dfc7ff67dfe7dfe7ffc7df677f6",
+    "melspec": "85e085e0a5acadacacbcbc3d3c353d35a575a4713473345329d72997298f290f"
+  },
+  {
+    "name": "Group21_Song3_Music.mp3",
+    "mfcc": "80008201820080008202c28080013f7e75e87ffc7dfd7df37dff7df67dff75ff",
+    "melspec": "ac25ac25ac25ad25ad25ad25ad35a535a535a535a535a535a535a535a5b5a5b5"
+  },
+  {
+    "name": "Group21_Song3_Vocals.mp3",
+    "mfcc": "81a085a18fa181ab8fe189ebbf817e407856705e725e705e707c785e7a567e56",
+    "melspec": "87e087e08188a98c389a3c3e7c3d7e355a75527152535a5378d368cf698f790f"
+  },
+  {
+    "name": "Group21_Song4_Full.mp3",
+    "mfcc": "f406f426f466e162837a8bf603f703f30af30adb08990a195a9d5f997d195d89",
+    "melspec": "8d5b8d5b855a954ab568ac6c7ae47aa45ab55ab55ab552b77296299229922d52"
+  },
+  {
+    "name": "Group21_Song4_Music.mp3",
+    "mfcc": "8c19d408fa04aa4ea3f6a3e223f62bf609ef095b0d5b511b552d562d56ad5e95",
+    "melspec": "a86ea86ea86aa96aad6aa56ab57ab57aa55aa51aa51a259a219a239a279a779a"
+  },
+  {
+    "name": "Group21_Song4_Vocals.mp3",
+    "mfcc": "a953d2a5854a9295d52aab5552ad2d565ab56d2a78b568ea695c69ec2d4a752a",
+    "melspec": "8d598d5b855b954a75486aec6aa47aa55ab55ab55ab552b552b628862956ad56"
+  },
+  {
+    "name": "Group22_Song1_Full.mp3",
+    "mfcc": "cfc08fc08fe087c09fe09f18c5c5703f507f407f407f703f601f701f701f701f",
+    "melspec": "87c087c083e08be0cbe0cbe0dbe15b4559555155517541f541fdc1fdc1fbc33b"
+  },
+  {
+    "name": "Group22_Song1_Music.mp3",
+    "mfcc": "8fc0afc0a7c0a7c0bfe0afc47931485d496f483f493f503f503f501f701f701f",
+    "melspec": "cbc0cbc0cbc0cbc0cbc0cbc0dbe1d9e1c9e1c1f940fb40fb41fb41fb00ff027f"
+  },
+  {
+    "name": "Group22_Song1_vocals.mp3",
+    "mfcc": "8ba8be389a39859296719f3bc1c758337c1f68cc60c478c77cc478c678ce70ce",
+    "melspec": "a4baa4baa6baa2ba6aea4a6a4b444b45595555557555755545c5c5cddd0a5b2a"
+  },
+  {
+    "name": "Group22_Song2_Full.mp3",
+    "mfcc": "8f249de4b7e087f0f7f0b7f8b3f11bf1482d48574a1f4a1d581d480d5a1d181d",
+    "melspec": "8215821587058d059d079d079f979f97979496b59eb58ea58fa58bad8b298b69"
+  },
+  {
+    "name": "Group22_Song2_music.mp3",
+    "mfcc": "c404e444e000f430f420fc1cad0d1f2f0bad0beb0bf30beb0bdb1bdb1bdf1bde",
+    "melspec": "8b0d8b0d9b0d9b1d9b959bb59fb797b795b58585850587058705870d870d871f"
+  },
+  {
+    "name": "Group22_Song2_vocals.mp3",
+    "mfcc": "93e291f291c291f291e2b1f319c211c67f4c4e5c6e1c6e1c4e1d6e1d6e1d6e2d",
+    "melspec": "a494a494a414a5073d0f1d5f1b1f5b1b5afb5af15af05af85ae818e819e819fa"
+  },
+  {
+    "name": "Group22_Song3_Full.mp3",
+    "mfcc": "8fc087c087c087c0afc9afca6cdb187f187e103f003f603f303f703f783f703e",
+    "melspec": "96c196c197c187c18fc18dc18dc1cdc1cdd389d388f788f782e582f7827f017f"
+  },
+  {
+    "name": "Group22_Song3_music.mp3",
+    "mfcc": "87c0c7c0cfc0cfc0efc0e7d07ede3c7f287f003f003f003f003f303f383f303f",
+    "melspec": "8fc18fc18fc18fc18fc18fc187c187e185e585e581e581e780ff80ff807f807f"
+  },
+  {
+    "name": "Group22_Song3_vocals.mp3",
+    "mfcc": "9be3b3c5a661b3239073887b4a2a4c1a591e7e1c6c5c6c1c7d9c6f9c4dbc49a4",
+    "melspec": "b66db66db66db76ddb5549974993499249924a924a964ab54ab54aa54b24692e"
+  },
+  {
+    "name": "Group22_Song4-music.mp3",
+    "mfcc": "cb0acb4ecb4e8b488a4e8a6d3e8236ed74b474b5349474b534b574b134b774b1",
+    "melspec": "f87cfa7cea7caa5c820f0703070307830783078305ba25b8edf8f8f8f8f8f87c"
+  },
+  {
+    "name": "Group22_Song4_Full.mp3",
+    "mfcc": "e8408868e8408850bc56b4573e023737559153b152b85ab953be57bd57be77af",
+    "melspec": "9a1c8a3c8a6d8a6d8a6d4a6b4a6b6e43264225c225d625d475dc75dc75dc75dc"
+  },
+  {
+    "name": "Group22_Song4_vocals.mp3",
+    "mfcc": "9e448e6585429513b5133593359f759341c54aed4aec6aec6aac7aa87ae87b4a",
+    "melspec": "9f158f358a258a2d8a696a696a6a6a6a6a426446354735c575cd758d758d758f"
+  },
+  {
+    "name": "Group23_Song1_Full.mp3",
+    "mfcc": "ff80fa20e000e000e00be10b600b0b0b0b900bd81afe1fde1fdc1fff17ff3fff",
+    "melspec": "810e810e802e80a682f43af57af47ef07ff17b915b8942ab52ab52ab56a67fe2"
+  },
+  {
+    "name": "Group23_Song1_Music.mp3",
+    "mfcc": "978a950a9402910af0307131683168b168f12af52afd2add2ecd27ef27df1fdf",
+    "melspec": "80ab80ab80ab80ab82e22fe03ff03fd03fd03fd03fa82ba8abac3bc47fc47fc4"
+  },
+  {
+    "name": "Group23_Song1_Vocals.mp3",
+    "mfcc": "87c586d587448f4e8d4b91cb7c6b7b2f799978997030543c7c9878b871b870b8",
+    "melspec": "8f4c8f4c8f44ba549ad472d572f572f178f158b9528942ab52ab52ab54aa74aa"
+  },
+  {
+    "name": "Group23_Song2_Full.mp3",
+    "mfcc": "8c7ecbfa8bf8cbf08be8c3ed25e87287349f301d7016781f6809740774137417",
+    "melspec": "8f798f798f798d7c8d7c8d788d788d788d788d788d688d388d288d288d688d68"
+  },
+  {
+    "name": "Group23_Song2_Music.mp3",
+    "mfcc": "9e309f78dff0dfd0dff0af758b766005000f20bf00ff01ff602f002f700f700f",
+    "melspec": "8f798f798f798f788d788d788d788d788d788d688d688d688d688d688d688d68"
+  },
+  {
+    "name": "Group23_Song2_Vocals.mp3",
+    "mfcc": "b4b7c8268d2b0a658fe84be90ff843ed259c7200f496f013f85b701f75d057d1",
+    "melspec": "8c688c688965cc3444b644b563a9368b36db735b635365b661b273ab72c952df"
+  },
+  {
+    "name": "Group23_Song3_Full.mp3",
+    "mfcc": "9b05bb1cf309f32fe16ee110e5314c664cf626d92ed916d816b114b314f31cf6",
+    "melspec": "9b6d9b2d9b399b199b1a8992891a891b9b199b5d9b6d9b659b259b3489324932"
+  },
+  {
+    "name": "Group23_Song3_Music.mp3",
+    "mfcc": "bb35b314b311b326e44ee353ea596e4a4e6a56685cae5cac5cb85cb84cec44ca",
+    "melspec": "9b299b299b399b399b199b199b199b199b199b199b189b389b309b319b319b31"
+  },
+  {
+    "name": "Group23_Song3_Vocals.mp3",
+    "mfcc": "998899c8914a936b9909c90a49b5427f643766b566d366d366b366b366b564b7",
+    "melspec": "bb649b25b2b7a69264926492649a64da46d9da459b659b659b2559366d3265da"
+  },
+  {
+    "name": "Group23_Song4_Full.mp3",
+    "mfcc": "876d87c587458555b553755375f571f070d27e5a6abe4aae4a2e4a2c1a285aa8",
+    "melspec": "bd39bd39bd29bd298d298d298d298d288d28ad28ad28ad28ad6cad6dad69ad29"
+  },
+  {
+    "name": "Group23_Song4_Music.mp3",
+    "mfcc": "bd789f709ef086b096f454e4754470e670c56e076c074b174b0f6b0b6a0f6a8f",
+    "melspec": "8d398d398d298d298d29ad29ad29ad29ad29ad29bd29bd29bd29bd29b529b129"
+  },
+  {
+    "name": "Group23_Song4_Vocals.mp3",
+    "mfcc": "f387b187b107a947a5532d536d596d5866d856985af842bc52f85ef84e384ab0",
+    "melspec": "bd7bb17bb17bb32b92215aa04aa442a446c44ec24ec64ed64ed64edc4ed46ed4"
+  },
+  {
+    "name": "Group24_Song1_Full.mp3",
+    "mfcc": "c0ffc0f7ea83e293ee11eeb06fb12c912654064c166d1d6d1d6c192e194e71ee",
+    "melspec": "82d582f580fb80eb80efa0e7a0ede0ede0ffa0d7a095a097a097a0d761d761d7"
+  },
+  {
+    "name": "Group24_Song1_Music.mp3",
+    "mfcc": "88749d44bd02e9c6b54715e02be901eb20a961bd6bb64abe6ebc66e916791e78",
+    "melspec": "a0c7a0e7a0e7a0e7a0f780f780f580f5a0f5a0f5a0f5a0fda0fda0f5a0f5a0f5"
+  },
+  {
+    "name": "Group24_Song1_Vocals.mp3",
+    "mfcc": "c239ee39e679e69be293ee92fa304fb0334435cf156c15ed196c1964194631c6",
+    "melspec": "8e308e389e79d6695869686d68ed6aef6e8f6496749634967592719361166916"
+  },
+  {
+    "name": "Group24_Song2_Full.mp3",
+    "mfcc": "c2fec215f2d7f2b5eb0af37671147bda315328c91ce91ce9252a25282d2935a5",
+    "melspec": "827b82fb82ff80f582f582d582d783da817a816a816a806f8075d2f5d2f5d2f7"
+  },
+  {
+    "name": "Group24_Song2_Music.mp3",
+    "mfcc": "8ad68a54cad6cad4da94daf61a347ff721232162712b7163716b312b75695529",
+    "melspec": "80f380f380fb80fb80ff80ff80ff80ff80ff80ff80ff80fa807b807b807b80db"
+  },
+  {
+    "name": "Group24_Song2_Vocals.mp3",
+    "mfcc": "874ad695878a57b5ad0a631469127951387838f918e994edb8eb32e578a578f5",
+    "melspec": "8d0a8d2a9caddcb55ab5529563d56b5a294aa94aa96a396c726552b552b572b5"
+  },
+  {
+    "name": "Group24_Song3_Full.mp3",
+    "mfcc": "81a4e184f984f886f204f315739c729c133506630f7a0ffb06f3067b1e7b1e7b",
+    "melspec": "83d083d087f887f885f885f481f481f483f483f0a7b2a7b2a6b2a6b2a7b2b5b5"
+  },
+  {
+    "name": "Group24_Song3_Music.mp3",
+    "mfcc": "85e08564ea2deb2deb2deaa50b2d363a14d214d215d057d253d35bda15da15db",
+    "melspec": "83d083d087f087f087f087f087f087f087f087f485f085f085f085f295f795f7"
+  },
+  {
+    "name": "Group24_Song3_Vocals.mp3",
+    "mfcc": "e190f850f800bc00f1d0f154701671d703ad0f2f0f6b0fef07ef073f0e6f0eeb",
+    "melspec": "9c739c739c6b8ce949cd694d491559355335733666926692669266b267b66724"
+  },
+  {
+    "name": "Group24_Song4_Full.mp3",
+    "mfcc": "8b01f940fd00fd60f02df2ccfa7d76cd46ab46bb45bb019b035612d615ba097e",
+    "melspec": "818f818f810f89068b468b568b578b558fc58fcd876d876d87658765c76dc74a"
+  },
+  {
+    "name": "Group24_Song4_Music.mp3",
+    "mfcc": "9198b018b0b0f090f8a8e89a6cbb6fcd6f654e454f6547674722176317571f57",
+    "melspec": "c70f870f870f870f870f8fcf8fcf8fcf8fcf8f848f808f808f808f808f808f80"
+  },
+  {
+    "name": "Group24_Song4_Vocals.mp3",
+    "mfcc": "835d815781979334977596543e451e685e287caa7dab6d8a6cca6cda60af60a7",
+    "melspec": "919a999ab9baa93269126b564a544a545255564d766d766d75657565566e564a"
+  },
+  {
+    "name": "Group25_Song1_Full.mp3",
+    "mfcc": "cfe0cd19ed01ed19ed99fea00589272520bf3c3914f636e63067326636e630f6",
+    "melspec": "a7e5a3e5ab65ab65ab65a325a3a5a2a5a2b5a3a1aba1aba18b61836193e093f4"
+  },
+  {
+    "name": "Group25_Song1_Music.mp3",
+    "mfcc": "8fe08549ccc4cc99ccc8ef19050b3463301f77ba07f333ee323f3236323e323f",
+    "melspec": "a365a365a365a365a3e5a3a5aba5aba5aba58ba58ba58ba18ba18ba18ba18be1"
+  },
+  {
+    "name": "Group25_Song1_Vocals.mp3",
+    "mfcc": "93a4cddb83a941526da99266ed09926d7c367c373c567c46b24536643c457cd6",
+    "melspec": "a7a4a7a5c9e3495b594a5b4c56dc56963699a6992d596959695b5152535292d6"
+  },
+  {
+    "name": "Group25_Song2_Full.mp3",
+    "mfcc": "f818f806a939893885d007f607b106b605f403ee27e626e776e776077e077ac7",
+    "melspec": "a564b164b968b968b928b325b325b325b168b968bd58b574b574b52ab52ab56a"
+  },
+  {
+    "name": "Group25_Song2_Music.mp3",
+    "mfcc": "f818f838890283b987ca07f307fa05ae037305fc06f666d576d57a457e457e45",
+    "melspec": "b124b124b964b16cb16cb16cb56cb568b568b568b568b568b168b978b971b975"
+  },
+  {
+    "name": "Group25_Song2_Vocals.mp3",
+    "mfcc": "85e5d2c6c948ac6ac95552c2a4b552966d3979097549742ab4ad73b735ba793a",
+    "melspec": "a4d684d6594a596b5b2b5aa532b53ab56b554958495ead54a495b4ae35aa752a"
+  },
+  {
+    "name": "Group25_Song3_Full.mp3",
+    "mfcc": "800b803f803f803fa07f20bfa0eb3dc13fd07ff07fc07f807f807f807f807f84",
+    "melspec": "87938783878387c787438763872b8f2b8f138f518f51af138f1b8e9b869b8703"
+  },
+  {
+    "name": "Group25_Song3_Music.mp3",
+    "mfcc": "8102803f803f803f803fa59f56145f407f4c7fea7fa07fc07fc07ec07f407f60",
+    "melspec": "8753875387538743874387438753879387938f938fd387938793879387938793"
+  },
+  {
+    "name": "Group25_Song3_Vocals.mp3",
+    "mfcc": "afe086eaa4a432a9a0fd106b81eb102d78447e147f147f144f5e4f164f5f781f",
+    "melspec": "85928592c69656d456c464ea6d6a696a7a797a59385d3859383b3a3b7a3b7829"
+  },
+  {
+    "name": "Group25_Song4_Full.mp3",
+    "mfcc": "c091e091e0c0f0c1e601e1e0062c01e007f81fdf0f7f0f5f1f3f1f1f1e3f3ebe",
+    "melspec": "a4d9a4d9a1d9a1d9819b849b849b84d994d995d990d994d995d995d995d995d9"
+  },
+  {
+    "name": "Group25_Song4_Music.mp3",
+    "mfcc": "8c998c99ec12ec18ec00e0c011c403e413f413eb13e73b3f3f6f376f366e372f",
+    "melspec": "a4dba4d984d984d984d985d985d985d985d985d985d985d987d987d985d985d9"
+  },
+  {
+    "name": "Group25_Song4_Vocals.mp3",
+    "mfcc": "81c0633383e169e1d62dc1e1d62f71e03e9a3c5c3edc3d1ebc1a3c1a3e1e789c",
+    "melspec": "af0fab0fab072b562b8aa68a668a66c354d554d854d554d554f554b554b15db1"
+  }
+]
